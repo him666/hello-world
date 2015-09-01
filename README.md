@@ -6,7 +6,8 @@ so this is me starting my profile in github i ll be uploading some code... maybe
 :) now some ascii art
 
 
-AYANAMI REI                           __.-"..--,__
+AYANAMI REI   
+                                        __.-"..--,__
                                __..---"  | _|    "-_\
                         __.---"          | V|::.-"-._D
                    _--"".-.._   ,,::::::'"\/""'-:-:/
